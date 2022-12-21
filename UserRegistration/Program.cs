@@ -6,16 +6,16 @@ namespace UserRegistration
         static void Main(string[] args)
 
         {
-            
-          LastName last = new LastName();
-          last.Last();
-                   
-      
-                   
-                   
-                 
+
+            Email email = new Email();
+            email.UCThree();
+
         }
+
+    }
+
+}      
             
         
-    }
-}
+    
+
