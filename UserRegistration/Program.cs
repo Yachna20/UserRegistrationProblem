@@ -7,8 +7,8 @@ namespace UserRegistration
 
         {
             
-          FirstName first = new FirstName();
-          first.First();
+          LastName last = new LastName();
+          last.Last();
                    
       
                    
