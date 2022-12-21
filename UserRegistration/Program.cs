@@ -7,8 +7,8 @@ namespace UserRegistration
 
         {
 
-            Email email = new Email();
-            email.UCThree();
+           MobileFormat mobile= new MobileFormat ();
+            mobile.Mobileno();
 
         }
 
