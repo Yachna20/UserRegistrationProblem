@@ -7,8 +7,8 @@ namespace UserRegistration
 
         {
 
-           RuleOne min= new RuleOne ();
-            min.Min8();
+           RuleTwo uc= new RuleTwo ();
+            uc.OneUpperCase();
 
         }
 
