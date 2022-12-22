@@ -7,8 +7,8 @@ namespace UserRegistration
 
         {
 
-           RuleTwo uc= new RuleTwo ();
-            uc.OneUpperCase();
+           RuleThree num= new RuleThree ();
+            num.Numeric();
 
         }
 
